@@ -97,7 +97,6 @@ and provides a short summary, ignoring text that might be navigation related. \
 Respond in markdown."
 
     
-    #display_summary(system_prompt,"https://edwarddonner.com")
     display_summary(system_prompt,"https://amazon.com")
 
     
